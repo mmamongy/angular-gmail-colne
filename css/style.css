@@ -5,13 +5,11 @@
 }
 body {
   font: 300 14px/1.4 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: green;
 }
 .wrapper {
   margin: 0 auto;
   max-width: 800px;
   width: 96%;
-
 }
 ul,
 ol {
